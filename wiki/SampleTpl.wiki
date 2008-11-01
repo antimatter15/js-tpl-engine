@@ -1,4 +1,4 @@
-
+#labels Featured
 (based on http://code.google.com/p/tpl-engine/wiki/SampleTpl)
 
 If you have ever used a kind of smarty engine, you should be familiar with how this will work...
