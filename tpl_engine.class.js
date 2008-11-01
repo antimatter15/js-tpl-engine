@@ -46,6 +46,7 @@ Template.prototype.parseTpl = function(tpl, output){
 }
 
 Template.prototype.fileTpl = function(file, output){
+  /*Based on my vX Ajax Function*/
   var x=new(this.ActiveXObject?ActiveXObject:XMLHttpRequest)('Microsoft.XMLHTTP');
   x.open('GET',file,!0);
   x.onreadystatechange=function(){
