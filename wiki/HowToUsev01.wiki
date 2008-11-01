@@ -1,3 +1,6 @@
+#labels Featured
+(Based on http://code.google.com/p/tpl-engine/wiki/HowtoUsev01)
+
 In v0.1 it is all very very basic, but it is useful to simple projects...
 
 First things first, you need to of course download v0.1 @ our [http://code.google.com/p/js-tpl-engine/downloads/list Downloads] section
